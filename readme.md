@@ -1,3 +1,5 @@
+[![Go Tests](https://github.com/bungambohlah/codewars-go-challenges/actions/workflows/go.yml/badge.svg)](https://github.com/bungambohlah/codewars-go-challenges/actions/workflows/go.yml)
+
 # Codewars GO Challenges
 
 This is a code challenge solution using [GO](https://.go.dev) programming language from [Codewars](https://codewars.com).
