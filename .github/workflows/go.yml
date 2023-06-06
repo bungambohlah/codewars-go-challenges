@@ -1,0 +1,27 @@
+name: Go Tests
+
+on:
+  push:
+    branches: ["master"]
+  pull_request:
+    branches: ["master"]
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Go
+        uses: actions/setup-go@v3
+        with:
+          go-version: 1.19
+
+      - name: Install ginkgo
+        run: go install github.com/onsi/ginkgo/v2/ginkgo
+
+      - name: Run tests with ginkgo
+        run: ginkgo ./...
