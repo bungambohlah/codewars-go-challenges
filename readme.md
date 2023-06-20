@@ -36,6 +36,7 @@ go install github.com/onsi/ginkgo/v2/ginkgo
 2. [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
 3. [Build a pile of Cubes](https://www.codewars.com/kata/5592e3bd57b64d00f3000047)
 4. [Eureka!!](https://www.codewars.com/kata/5626b561280a42ecc50000d1)
+5. [Equal Sides of an Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
 
 ## Commands
 
