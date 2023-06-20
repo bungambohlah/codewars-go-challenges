@@ -1,8 +1,6 @@
 package rectintorectangles
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func RectIntoRects(l, w int) []string {
 	if l == w || l == 0 || w == 0 {
