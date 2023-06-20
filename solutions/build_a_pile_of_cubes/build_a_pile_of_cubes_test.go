@@ -1,7 +1,7 @@
 package buildapileofcubes_test
 
 import (
-	buildapileofcubes "codewars/build_a_pile_of_cubes"
+	buildapileofcubes "codewars/solutions/build_a_pile_of_cubes"
 	"testing"
 
 	. "github.com/onsi/ginkgo/v2"

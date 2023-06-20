@@ -1,7 +1,7 @@
 package rectintorectangles_test
 
 import (
-	rectintorectangles "codewars/rect_into_rectangles"
+	rectintorectangles "codewars/solutions/rect_into_rectangles"
 	"sort"
 	"testing"
 

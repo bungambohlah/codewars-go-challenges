@@ -1,7 +1,7 @@
 package eureka_test
 
 import (
-	eureka "codewars/eureka"
+	eureka "codewars/solutions/eureka"
 	"testing"
 
 	. "github.com/onsi/ginkgo/v2"

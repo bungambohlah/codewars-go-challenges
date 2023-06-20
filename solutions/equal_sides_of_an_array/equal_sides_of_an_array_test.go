@@ -1,7 +1,7 @@
 package equalsidesofanarray_test
 
 import (
-	equalsidesofanarray "codewars/equal_sides_of_an_array"
+	equalsidesofanarray "codewars/solutions/equal_sides_of_an_array"
 	"testing"
 
 	. "github.com/onsi/ginkgo/v2"

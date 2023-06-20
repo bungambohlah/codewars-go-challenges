@@ -1,7 +1,7 @@
 package firstnonrepeatingcharacter_test
 
 import (
-	firstNonRepeatingCharacter "codewars/first_non_repeating_character"
+	firstNonRepeatingCharacter "codewars/solutions/first_non_repeating_character"
 	"testing"
 
 	. "github.com/onsi/ginkgo/v2"
