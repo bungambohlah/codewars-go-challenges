@@ -34,6 +34,7 @@ go install github.com/onsi/ginkgo/v2/ginkgo
 
 1. [Rectangle into Rectangles](https://www.codewars.com/kata/58b22dc7a5d5def60300002a)
 2. [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
+3. [Build a pile of Cubes](https://www.codewars.com/kata/5592e3bd57b64d00f3000047)
 
 ## Commands
 
