@@ -33,6 +33,7 @@ go install github.com/onsi/ginkgo/v2/ginkgo
 ## List of Codewars Challenges is Done
 
 1. [Rectangle into Rectangles](https://www.codewars.com/kata/58b22dc7a5d5def60300002a)
+2. [First non-repeating character](https://www.codewars.com/kata/52bc74d4ac05d0945d00054e)
 
 ## Commands
 
