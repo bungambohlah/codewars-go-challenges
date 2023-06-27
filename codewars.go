@@ -6,6 +6,7 @@ import (
 	eureka "codewars/solutions/eureka"
 	firstnonrepeatingcharacter "codewars/solutions/first_non_repeating_character"
 	rectintorectangles "codewars/solutions/rect_into_rectangles"
+	romansnumeraldecoder "codewars/solutions/romans_numeral_decoder"
 	"fmt"
 )
 
@@ -15,4 +16,5 @@ func main() {
 	fmt.Println("eurek :", eureka.SumDigPow(1, 100))
 	fmt.Println("first_non_repeating_character :", firstnonrepeatingcharacter.FirstNonRepeating("aaabbc"))
 	fmt.Println("rect_into_rectangles :", rectintorectangles.RectIntoRects(22, 6))
+	fmt.Println("romans_numeral_decoder :", romansnumeraldecoder.Decode("IV"))
 }
