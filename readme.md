@@ -40,6 +40,7 @@ go install github.com/onsi/ginkgo/v2/ginkgo
 6. [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005)
 7. [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
 8. [Decode the Morse Code](https://www.codewars.com/kata/54b724efac3d5402db00065e)
+9. [Matrix Determinant](https://www.codewars.com/kata/52a382ee44408cea2500074c)
 
 ## Commands
 
