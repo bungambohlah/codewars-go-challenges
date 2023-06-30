@@ -38,6 +38,7 @@ go install github.com/onsi/ginkgo/v2/ginkgo
 4. [Eureka!!](https://www.codewars.com/kata/5626b561280a42ecc50000d1)
 5. [Equal Sides of an Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
 6. [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005)
+7. [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
 
 ## Commands
 

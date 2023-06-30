@@ -7,6 +7,7 @@ import (
 	firstnonrepeatingcharacter "codewars/solutions/first_non_repeating_character"
 	rectintorectangles "codewars/solutions/rect_into_rectangles"
 	romansnumeraldecoder "codewars/solutions/romans_numeral_decoder"
+	twosum "codewars/solutions/two_sum"
 	"fmt"
 )
 
@@ -17,4 +18,5 @@ func main() {
 	fmt.Println("first_non_repeating_character :", firstnonrepeatingcharacter.FirstNonRepeating("aaabbc"))
 	fmt.Println("rect_into_rectangles :", rectintorectangles.RectIntoRects(22, 6))
 	fmt.Println("romans_numeral_decoder :", romansnumeraldecoder.Decode("IV"))
+	fmt.Println("two_sum :", twosum.TwoSum([]int{1, 2, 3}, 4))
 }
